@@ -1,1 +1,1 @@
-# VAT_Supply_Chain_Project-
+# VAT_Supply_Chain_Project- This is VAT - Based Multi-Level Supply Chain Management System. The purpose of the project is automate product flow and VAT calculation across suppply chain levels. It covers manufacturing to consumer journey including VAT tracking. It Enables accurate transaction logging and receipts. It Generate VAT reports and admin dashboards. It Stimulate end-to-end product journey.
